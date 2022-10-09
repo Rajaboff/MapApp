@@ -1,0 +1,11 @@
+{
+    "jumpToAliasFile.alias": {
+        "@": "d:\\MapTask\\map-task\\src",
+        "@assets": "d:\\MapTask\\map-task\\src\\assets",
+        "@components": "d:\\MapTask\\map-task\\src\\components",
+        "@services": "d:\\MapTask\\map-task\\src\\services",
+        "@store": "d:\\MapTask\\map-task\\src\\store",
+        "@utils": "d:\\MapTask\\map-task\\src\\utils",
+        "@views": "d:\\MapTask\\map-task\\src\\views"
+    }
+}
